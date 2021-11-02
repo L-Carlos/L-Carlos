@@ -17,6 +17,7 @@ I am also looking for internship or junior positions.
 <a href="https://github.com/L-Carlos/L-Carlos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Carlos&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&count_private=true&show_icons=true" />
 </a>
+
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub
 
 ## Some other tech i had contact with
